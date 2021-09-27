@@ -18,9 +18,9 @@ Small (10-99 employees)
 These days the increasement of patients and the uncommonness of ressources and personnel has turned into a major test confronting the world of wellbeing as a general rule, and that of a clinic specifically! 
 To settle this problem, doctors and health specialists need to adopt a comprehensive strategy for the patient who presents to thier clinics. Online appointment booking system is one of those great health applications which is gaining popularity recently. This system will notably allow a doctor to offer appointment slots to its Patients to make a reservation online without the need of being physically present at the clinic.
 
-### Car Rental Application Preview
+### Medical Appointment Application Preview
 
-###### The Main Page of Our Medical Appointement System
+###### The Main Page of Our Medical Appointment System
 
 ![1 The Main Page](https://user-images.githubusercontent.com/75227040/134902861-9c2acae2-5b02-46e3-ab45-c3009547b0a1.png)
 
